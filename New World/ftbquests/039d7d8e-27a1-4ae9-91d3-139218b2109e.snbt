@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "039d7d8e27a14ae991d3139218b2109e"
+	name: "shunalucard#039d7d8e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

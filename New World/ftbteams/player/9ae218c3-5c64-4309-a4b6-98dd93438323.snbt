@@ -1,0 +1,17 @@
+{
+	id: "9ae218c3-5c64-4309-a4b6-98dd93438323"
+	type: "player"
+	player_name: "Pyyyter"
+	ranks: {
+		9ae218c3-5c64-4309-a4b6-98dd93438323: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Pyyyter"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFB959"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

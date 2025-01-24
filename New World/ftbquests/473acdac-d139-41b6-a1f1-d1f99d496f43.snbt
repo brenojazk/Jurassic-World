@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "473acdacd13941b6a1f1d1f99d496f43"
+	name: "Nobru4M#473acdac"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "9ae218c35c644309a4b698dd93438323"
+	name: "Pyyyter#9ae218c3"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

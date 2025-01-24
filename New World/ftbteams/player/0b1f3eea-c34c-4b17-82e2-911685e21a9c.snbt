@@ -1,0 +1,17 @@
+{
+	id: "0b1f3eea-c34c-4b17-82e2-911685e21a9c"
+	type: "player"
+	player_name: "iTzJapa"
+	ranks: {
+		0b1f3eea-c34c-4b17-82e2-911685e21a9c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "iTzJapa"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FAFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

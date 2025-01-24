@@ -1,0 +1,17 @@
+{
+	id: "039d7d8e-27a1-4ae9-91d3-139218b2109e"
+	type: "player"
+	player_name: "shunalucard"
+	ranks: {
+		039d7d8e-27a1-4ae9-91d3-139218b2109e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "shunalucard"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7A59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

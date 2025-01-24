@@ -1,0 +1,17 @@
+{
+	id: "473acdac-d139-41b6-a1f1-d1f99d496f43"
+	type: "player"
+	player_name: "Nobru4M"
+	ranks: {
+		473acdac-d139-41b6-a1f1-d1f99d496f43: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nobru4M"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFC259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

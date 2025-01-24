@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "0b1f3eeac34c4b1782e2911685e21a9c"
+	name: "iTzJapa#0b1f3eea"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
