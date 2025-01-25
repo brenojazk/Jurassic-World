@@ -23,6 +23,7 @@
       "minecraft:dripstone_caves": "2025-01-23 23:19:15 -0300",
       "minecraft:forest": "2025-01-22 22:44:58 -0300",
       "autumnity:autumnity:maple_forest": "2025-01-22 23:07:06 -0300",
+      "minecraft:desert": "2025-01-25 09:49:56 -0300",
       "minecraft:jungle": "2025-01-22 01:37:03 -0300",
       "minecraft:ocean": "2025-01-24 01:37:03 -0300",
       "minecraft:old_growth_spruce_taiga": "2025-01-24 01:38:34 -0300",
@@ -6630,81 +6631,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "new_slab_variants:recipes/building_blocks/tuff_slab": {
     "criteria": {
-      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall": {
-    "criteria": {
-      "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/deepslate_brick_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-24 22:55:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks": {
-    "criteria": {
-      "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-24 22:52:15 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
-    "criteria": {
-      "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/building_blocks/dye_black_bedroll": {
-    "criteria": {
-      "has_needed_dye": "2025-01-24 23:35:20 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:35:20 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_black1": {
-    "criteria": {
-      "recipe_condition": "2025-01-24 23:36:50 -0300"
+      "has_tuff": "2025-01-24 22:46:32 -0300"
     },
     "done": true
   },
@@ -6714,51 +6643,21 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "has_planks": "2025-01-24 22:55:06 -0300"
+      "has_the_recipe": "2025-01-24 22:52:14 -0300"
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/building_blocks/dye_red_bedroll": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_needed_dye": "2025-01-24 23:55:54 -0300"
+      "has_ender_eye": "2025-01-24 22:52:14 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_red_dye": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-01-24 23:46:57 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_red2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+      "has_blaze_powder": "2025-01-24 22:52:15 -0300"
     },
     "done": true
   },
@@ -6768,147 +6667,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
+  "new_slab_variants:recipes/building_blocks/deepslate_slab": {
     "criteria": {
-      "has_needed_dye": "2025-01-24 23:35:20 -0300"
+      "has_deepslate": "2025-01-24 22:54:30 -0300"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
-      "recipe_condition2": "2025-01-24 23:35:20 -0300"
+      "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
     },
     "done": true
   },
-  "immersive_weathering:recipes/dark_oak_bark": {
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
-      "has_copper_block": "2025-01-25 01:12:04 -0300"
+      "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/chiseled_stone_bricks_slab": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2025-01-24 23:24:23 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:35:20 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-24 23:35:20 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-01-24 23:51:16 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_red_dye": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2025-01-24 23:51:16 -0300"
+      "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/spruce_leaves": {
-    "criteria": {
-      "has_copper_block": "2025-01-24 23:37:35 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_red2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_red_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_the_recipe": "2025-01-24 22:52:14 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2025-01-24 23:51:16 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_black_dye": "2025-01-24 23:35:20 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:35:20 -0300"
     },
     "done": true
   },
@@ -6924,75 +6709,9 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:35:20 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_rose_red": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-01-24 22:52:14 -0300"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/deepslate_bricks": {
-    "criteria": {
-      "has_copper_block": "2025-01-24 22:55:06 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:35:20 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-01-24 23:51:16 -0300"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/spruce_leaves_slab": {
-    "criteria": {
-      "has_spruce_leaves": "2025-01-24 23:37:35 -0300"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/black_stained_glass_slab": {
-    "criteria": {
-      "has_black_stained_glass": "2025-01-24 23:36:50 -0300"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/deepslate_slab": {
-    "criteria": {
-      "has_deepslate": "2025-01-24 22:54:30 -0300"
     },
     "done": true
   },
@@ -7002,33 +6721,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-01-24 23:07:23 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/oak_banister": {
-    "criteria": {
-      "has_item": "2025-01-24 23:50:14 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:35:20 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_black_pane1": {
-    "criteria": {
-      "recipe_condition": "2025-01-24 23:36:53 -0300"
     },
     "done": true
   },
@@ -7038,63 +6733,9 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-24 23:51:16 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
     },
     "done": true
   },
@@ -7104,63 +6745,9 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-01-24 23:53:27 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_pane1": {
-    "criteria": {
-      "recipe_condition": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_red2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/tuff_slab": {
-    "criteria": {
-      "has_tuff": "2025-01-24 22:46:32 -0300"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/ladder_slab": {
-    "criteria": {
-      "has_ladder": "2025-01-24 23:39:17 -0300"
     },
     "done": true
   },
@@ -7170,39 +6757,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:55:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-24 22:55:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/deepslate_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-01-24 22:55:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-24 22:55:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_red_dye": "2025-01-24 23:55:54 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-01-24 23:15:27 -0300"
     },
     "done": true
   },
@@ -7218,15 +6859,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
-      "has_black_dye": "2025-01-24 23:35:20 -0300"
+      "has_dark_oak_trapdoor": "2025-01-24 23:07:23 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_glass": "2025-01-24 23:36:50 -0300"
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-01-24 23:15:27 -0300"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/chiseled_stone_bricks_slab": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-01-24 23:24:23 -0300"
     },
     "done": true
   },
@@ -7236,21 +6973,363 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/dye_black_bedroll": {
+    "criteria": {
+      "has_needed_dye": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-01-24 23:35:20 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-01-24 22:55:04 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-24 23:35:20 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black1": {
+    "criteria": {
+      "recipe_condition": "2025-01-24 23:36:50 -0300"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/black_stained_glass_slab": {
+    "criteria": {
+      "has_black_stained_glass": "2025-01-24 23:36:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-24 23:36:50 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-01-24 23:36:53 -0300"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/spruce_leaves": {
+    "criteria": {
+      "has_copper_block": "2025-01-24 23:37:35 -0300"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/spruce_leaves_slab": {
+    "criteria": {
+      "has_spruce_leaves": "2025-01-24 23:37:35 -0300"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/ladder_slab": {
+    "criteria": {
+      "has_ladder": "2025-01-24 23:39:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-24 23:46:57 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-01-24 23:50:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-01-24 23:51:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-01-24 23:51:16 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-01-24 23:51:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-01-24 23:51:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-24 23:51:16 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-01-24 23:53:27 -0300"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/dye_red_bedroll": {
+    "criteria": {
+      "has_needed_dye": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-01-24 23:55:54 -0300"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/dark_oak_bark": {
+    "criteria": {
+      "has_copper_block": "2025-01-25 01:12:04 -0300"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/glowstone_slab": {
+    "criteria": {
+      "has_glowstone": "2025-01-25 10:16:31 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-01-25 08:49:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-25 09:00:59 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-01-25 09:57:28 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-01-25 09:50:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-25 10:16:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-25 09:00:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-25 10:16:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-25 06:50:32 -0300"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_dark_oak_log_slab": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-01-25 09:00:59 -0300"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2025-01-25 09:50:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-25 09:50:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-25 10:16:26 -0300"
     },
     "done": true
   },
