@@ -2076,6 +2076,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-01-25 12:08:12 -0300",
       "in_better_spider_dungeon": "2025-01-19 19:32:41 -0300"
     },
     "done": false
@@ -7265,93 +7266,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2025-01-24 23:05:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_brush_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-01-24 22:08:51 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-01-24 21:58:48 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-24 23:05:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-01-24 23:05:02 -0300"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
-    "criteria": {
-      "has_item": "2025-01-24 23:50:55 -0300"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-01-24 23:16:01 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-24 22:34:20 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-24 23:05:02 -0300"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/packed_mud_slab": {
-    "criteria": {
-      "has_packed_mud": "2025-01-24 22:40:09 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-01-24 23:05:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-01-24 23:05:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-01-24 22:05:24 -0300"
     },
     "done": true
   },
@@ -7361,9 +7278,33 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/basalt_slab": {
+  "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
     "criteria": {
-      "has_basalt": "2025-01-25 00:58:24 -0300"
+      "has_ancient_debris": "2025-01-24 21:58:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-24 21:58:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-24 22:05:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_brush_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
     },
     "done": true
   },
@@ -7379,24 +7320,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-24 22:34:20 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-01-25 00:58:24 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-24 22:34:20 -0300"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
@@ -7409,57 +7332,9 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
-    "criteria": {
-      "has_ancient_debris": "2025-01-24 21:58:48 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/emerald_block_slab": {
-    "criteria": {
-      "has_emerald_block": "2025-01-24 22:08:51 -0300"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_forge_brick": {
-    "criteria": {
-      "forge": "2025-01-24 23:50:55 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-01-24 22:40:09 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-01-25 00:58:24 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-01-24 23:05:02 -0300"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2025-01-24 23:20:17 -0300"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_skillet": {
-    "criteria": {
-      "skillet": "2025-01-24 23:20:24 -0300"
     },
     "done": true
   },
@@ -7469,21 +7344,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
-    "criteria": {
-      "has_dragonscale_red": "2025-01-24 23:50:05 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
-    "criteria": {
-      "has_item": "2025-01-24 23:50:55 -0300"
     },
     "done": true
   },
@@ -7493,15 +7356,129 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragonbone": {
+  "minecraft:recipes/decorations/lodestone": {
     "criteria": {
-      "has_dragon_bone_block": "2025-01-24 23:51:53 -0300"
+      "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
+  "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
-      "has_ancient_debris": "2025-01-24 21:58:48 -0300"
+      "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-24 22:08:51 -0300"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/emerald_block_slab": {
+    "criteria": {
+      "has_emerald_block": "2025-01-24 22:08:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-24 22:34:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-24 22:34:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-24 22:34:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-24 22:34:20 -0300"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-24 22:37:55 -0300"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/packed_mud_slab": {
+    "criteria": {
+      "has_packed_mud": "2025-01-24 22:40:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-01-24 22:40:09 -0300"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-01-24 22:41:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-24 23:05:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-24 23:05:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-24 23:05:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-24 23:05:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-24 23:05:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-24 23:05:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-24 23:05:02 -0300"
     },
     "done": true
   },
@@ -7517,18 +7494,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-01-24 23:23:25 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-24 23:05:02 -0300"
@@ -7541,33 +7506,9 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/nether_star_hook": {
-    "criteria": {
-      "has_items": "2025-01-24 23:23:25 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/netherite_block": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-24 23:05:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2025-01-24 22:37:55 -0300"
     },
     "done": true
   },
@@ -7577,9 +7518,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/limestone": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
-      "limestone": "2025-01-24 22:41:44 -0300"
+      "has_stone": "2025-01-24 23:05:02 -0300"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-01-24 23:16:01 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-01-24 23:20:17 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-01-24 23:20:24 -0300"
     },
     "done": true
   },
@@ -7589,9 +7548,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "has_stone": "2025-01-24 23:05:02 -0300"
+      "has_nether_star": "2025-01-24 23:23:25 -0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2025-01-24 23:23:25 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
+    "criteria": {
+      "has_dragonscale_red": "2025-01-24 23:50:05 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
+    "criteria": {
+      "has_item": "2025-01-24 23:50:55 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-01-24 23:50:55 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
+    "criteria": {
+      "has_item": "2025-01-24 23:50:55 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-01-24 23:51:53 -0300"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/basalt_slab": {
+    "criteria": {
+      "has_basalt": "2025-01-25 00:58:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-25 00:58:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-25 00:58:24 -0300"
     },
     "done": true
   },
@@ -7601,15 +7614,159 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "iceandfire:iceandfire/dragon_forge_core": {
     "criteria": {
-      "has_amethyst_shard": "2025-01-24 22:34:20 -0300"
+      "core": "2025-01-25 11:40:13 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+  "betterdungeons:zombie_dungeon": {
     "criteria": {
-      "has_netherite_ingot": "2025-01-24 22:05:55 -0300"
+      "in_better_zombie_dungeon": "2025-01-25 12:08:12 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_shovel": {
+    "criteria": {
+      "has_item": "2025-01-25 12:31:45 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
+    "criteria": {
+      "has_item": "2025-01-25 12:31:45 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_boots": {
+    "criteria": {
+      "has_item": "2025-01-25 12:31:45 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2025-01-25 12:31:45 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
+    "criteria": {
+      "has_item": "2025-01-25 12:31:45 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_fire_ingot_to_dragonsteel_fire_block": {
+    "criteria": {
+      "has_dragonsteel_fire_ingot": "2025-01-25 12:31:45 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_axe": {
+    "criteria": {
+      "has_item": "2025-01-25 12:31:45 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
+    "criteria": {
+      "has_item": "2025-01-25 12:31:45 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_sword": {
+    "criteria": {
+      "has_item": "2025-01-25 12:31:45 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
+    "criteria": {
+      "has_item": "2025-01-25 12:31:45 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-25 12:31:45 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-01-25 12:44:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-01-25 12:51:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-01-25 12:51:50 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-01-25 12:51:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-01-25 12:51:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-25 12:51:50 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-01-25 12:58:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-25 13:01:06 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-01-25 13:52:35 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-01-25 13:52:35 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-01-25 13:52:35 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-25 13:52:35 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-01-25 13:52:35 -0300"
     },
     "done": true
   },
